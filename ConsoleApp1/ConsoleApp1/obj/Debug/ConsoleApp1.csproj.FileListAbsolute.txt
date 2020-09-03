@@ -1,0 +1,7 @@
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Michu\Documents\GitHub\CAI_Ejercicio3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
